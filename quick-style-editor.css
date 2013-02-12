@@ -1,0 +1,18 @@
+#qse-options {
+	padding: 0 10px 10px 10px;
+	margin: 10px 10px 0 10px ;
+	}
+
+#qse-options h2 {
+	color: #005F6B;
+	}
+
+#qse-options input {
+	border: 1px solid #343838;
+	}
+
+#qse-options span input {
+border: none;
+text-align: right;
+color: red;
+}
