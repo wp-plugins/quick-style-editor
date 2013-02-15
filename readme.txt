@@ -25,8 +25,7 @@ A simple and easy way to test different styles from the dashboard without messin
 [Quick Style Editor plugin](http://quick-plugins.com/quick-style-editor/).
 
 == Screenshots ==
-
-1. This is the admin page.
+1.	This is the admin page.
 
 == Installation ==
 
