@@ -24,6 +24,10 @@ A simple and easy way to test different styles from the dashboard without messin
 
 [Quick Style Editor plugin](http://quick-plugins.com/quick-style-editor/).
 
+== Screenshot ==
+
+1. This is the admin page.
+
 == Installation ==
 
 1.	Login to your wordpress dashboard.
