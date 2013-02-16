@@ -31,10 +31,6 @@ A simple and easy way to test different styles from the dashboard without messin
 3.	Follow the on screen instructions
 4.	Use the 'Edit Styles' link on the plugins page.
 
-== Screenshots ==
-
-1.	This is the admin page.
-
 == Frequently Asked Questions ==
 
 = How do I edit the styles? =
