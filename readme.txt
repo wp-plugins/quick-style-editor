@@ -6,7 +6,7 @@ Requires at least: 2.7
 Tested up to: 3.5
 Stable tag: trunk
 
-Test colours, backgrounds, fonts and formatting without affecting the theme files 
+Test colours, backgrounds, fonts and formatting without affecting the theme files
 
 == Description ==
 
@@ -24,15 +24,16 @@ A simple and easy way to test different styles from the dashboard without messin
 
 [Quick Style Editor plugin](http://quick-plugins.com/quick-style-editor/).
 
-== Screenshots ==
-1.	This is the admin page.
-
 == Installation ==
 
 1.	Login to your wordpress dashboard.
 2.	Go to 'Plugins', 'Add New' then search for 'quick style editor'.
 3.	Follow the on screen instructions
 4.	Use the 'Edit Styles' link on the plugins page.
+
+== Screenshots ==
+
+1.	This is the admin page.
 
 == Frequently Asked Questions ==
 
