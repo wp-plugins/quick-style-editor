@@ -31,6 +31,10 @@ A simple and easy way to test different styles from the dashboard without messin
 3.	Follow the on screen instructions
 4.	Use the 'Edit Styles' link on the plugins page.
 
+== Screenshots ==
+
+Images of the admin screen and site examples are on the plugin page: [quick-plugins.com/quick-style-editor](http://quick-plugins.com/quick-style-editor)
+
 == Frequently Asked Questions ==
 
 = How do I edit the styles? =
@@ -49,6 +53,11 @@ There could be loads of reasons. Your theme may not support this style, it may n
 Yes. Just goto the [plugin page](http://quick-plugins.com/quick-style-editor/) and post a comment or send me a message.
 
 == Changelog ==
+
+= 1.1 =
+
+*	Added layout marker option
+*	Added a couple of new styles
 
 = 1.0 =
 
